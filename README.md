@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [[https://portfolio-tawny-psi.vercel.app/](https://ricp-5cbc9.web.app/)]
+- 👨‍💻 All of my projects are available at [[https://ricp-5cbc9.web.app/](https://ricp-5cbc9.web.app/)]
 
 - 💬 Ask me about **ReactJS, NodeJs....**
 
